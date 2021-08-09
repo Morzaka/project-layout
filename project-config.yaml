@@ -1,0 +1,3 @@
+server:
+  - listenURL: ":8080"
+  - APIVersion: "/api/v1"
