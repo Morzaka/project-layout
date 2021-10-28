@@ -1,6 +1,6 @@
 package serv
 
-import "github.com/Morzaka/project-layout/cmd/server/session"
+import "github.com/Morzaka/project-layout/server/session"
 
 func CreateNewRoom() {
 
