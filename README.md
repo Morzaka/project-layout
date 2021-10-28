@@ -20,3 +20,8 @@ run
 **Run web server in a docker container:**
 * run `docker-compose up --build`
 > listen http://localhost:8080
+
+
+###**Messenger project struct**
+
+![alt text](./messanger.jpeg)
